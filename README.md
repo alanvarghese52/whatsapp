@@ -1,4 +1,4 @@
-# whatsapp2
+# whatsapp
 
 A new Flutter project.
 
